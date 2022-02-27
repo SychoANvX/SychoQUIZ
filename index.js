@@ -35,7 +35,7 @@ async function handleAnswer(isCorrect) {
     if(isCorrect) {
         spinner.success({ text: `Arey! Milayeu Tw ${p_name} Mate` });
     } else {
-        spinner.error({text:`Thukka Chandi! Biagrey ${p_name} Mate`});
+        spinner.error({text:`Thukka Chandi! Bigarey ${p_name} Mate`});
         process.exit(1);
     }
 }
