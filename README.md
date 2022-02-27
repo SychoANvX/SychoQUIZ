@@ -3,5 +3,5 @@
 ## How To Take The Quiz
 
 ```
-npx sychoiz
+npx sychoquieasy
 ```
